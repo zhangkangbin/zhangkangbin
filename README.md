@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning algorithms and computer network...
+
+
+
+<a href="https://github.com/zhangkangbin/JavaStudy">
+  <img align="left" width="450" height="170" src="https://github-readme-stats.vercel.app/api?username=zhangkangbin&count_private=true&show_icons=true&theme=buefy&include_all_commits=true" />
+</a>
+
+<a href="https://github.com/zhangkangbin/JavaStudy">
+  <img align="right" width="350" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhangkangbin&layout=compact" />
+</a>
 <!--
 **zhangkangbin/zhangkangbin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
