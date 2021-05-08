@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning algorithms and computer network...
-- 😄 [about me](http://zhangkangbin.github.io/about/)
+- 😄 [about me(简单了解一下我？)](http://zhangkangbin.github.io/about/)
 
 
 <a href="https://github.com/zhangkangbin/JavaStudy">
