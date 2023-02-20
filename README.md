@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning algorithms and computer network...
-- 😄 [about me(简单了解一下我？)](http://zhangkangbin.github.io/about/)
-
+- 💬 [about me(简单了解一下我？)](http://zhangkangbin.github.io/about/)
+- 📫 [my blog(我的博客)](http://zhangkangbin.github.io/about/)](https://juejin.cn/user/4494459261952119/posts)
 
 <a href="https://github.com/zhangkangbin/JavaStudy">
   <img align="left" width="450" height="170" src="https://github-readme-stats.vercel.app/api?username=zhangkangbin&count_private=true&show_icons=true&theme=buefy&include_all_commits=true" />
